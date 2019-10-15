@@ -22,7 +22,7 @@ namespace netcoreAuthen
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseUrls("http://192.168.0.179:5000");
+                    webBuilder.UseUrls("http://192.168.21.170:5000");
                     webBuilder.UseStartup<Startup>();
                 });
 
@@ -30,8 +30,8 @@ namespace netcoreAuthen
         {
             var host = new WebHostBuilder()
             .UseKestrel()
-            //.UseUrls("http://192.168.21.170:5000")
-            .UseUrls("http://192.168.0.179:5000")
+            .UseUrls("http://192.168.21.170:5000")
+            //.UseUrls("http://192.168.0.179:5000")
             .UseContentRoot(Directory.GetCurrentDirectory())
             .UseIISIntegration()
             .UseStartup<Startup>()

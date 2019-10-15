@@ -12,6 +12,8 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using System.IdentityModel.Tokens.Jwt;
+using netcoreAuthen.Services;
+using Microsoft.AspNetCore.DataProtection;
 
 
 //using Microsoft.OpenApi.Models;
@@ -77,6 +79,8 @@ namespace netcoreAuthen
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
             });
 
+
+            services.AddSingleton<ProtectorService>();
 
 
             services.AddControllers();
