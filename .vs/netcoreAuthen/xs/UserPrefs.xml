@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{FF8F14F1-725E-41A9-8CE9-5ADA041A38DC}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Services/ProtectorService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/JwtService.cs">
     <Files>
-      <File FileName="Services/ProtectorService.cs" Line="15" Column="1" />
-      <File FileName="Startup.cs" Line="83" Column="76" />
-      <File FileName="Controllers/ProtectorController.cs" Line="19" Column="10" />
+      <File FileName="Services/ProtectorService.cs" Line="12" Column="66" />
+      <File FileName="Startup.cs" Line="107" Column="1" />
+      <File FileName="Controllers/ProtectorController.cs" Line="16" Column="48" />
+      <File FileName="Services/JwtService.cs" Line="40" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +13,7 @@
             <Node name="netcoreAuthen" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Services" expanded="True">
-                <Node name="ProtectorService.cs" selected="True" />
+                <Node name="JwtService.cs" selected="True" />
               </Node>
               <Node name="appsettings.json" expanded="True" />
             </Node>
@@ -24,10 +25,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/nauticomm/Documents/Test/netcoreAuthen/Controllers/ProtectorController.cs" relfile="Controllers/ProtectorController.cs" line="27" column="1" />
-      <Breakpoint file="/Users/nauticomm/Documents/Test/netcoreAuthen/Controllers/ProtectorController.cs" relfile="Controllers/ProtectorController.cs" line="19" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.netcoreAuthen PreferredExecutionTarget="/Applications/Google Chrome.app" />
