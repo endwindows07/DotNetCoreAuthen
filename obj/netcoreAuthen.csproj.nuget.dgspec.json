@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nauticomm/Documents/Test/netcoreAuthen/netcoreAuthen.csproj": {}
+    "/Users/nauticomm/Desktop/Blazor/blazor/DotNetCoreAuthen/netcoreAuthen.csproj": {}
   },
   "projects": {
-    "/Users/nauticomm/Documents/Test/netcoreAuthen/netcoreAuthen.csproj": {
+    "/Users/nauticomm/Desktop/Blazor/blazor/DotNetCoreAuthen/netcoreAuthen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nauticomm/Documents/Test/netcoreAuthen/netcoreAuthen.csproj",
+        "projectUniqueName": "/Users/nauticomm/Desktop/Blazor/blazor/DotNetCoreAuthen/netcoreAuthen.csproj",
         "projectName": "netcoreAuthen",
-        "projectPath": "/Users/nauticomm/Documents/Test/netcoreAuthen/netcoreAuthen.csproj",
+        "projectPath": "/Users/nauticomm/Desktop/Blazor/blazor/DotNetCoreAuthen/netcoreAuthen.csproj",
         "packagesPath": "/Users/nauticomm/.nuget/packages/",
-        "outputPath": "/Users/nauticomm/Documents/Test/netcoreAuthen/obj/",
+        "outputPath": "/Users/nauticomm/Desktop/Blazor/blazor/DotNetCoreAuthen/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/nauticomm/.nuget/NuGet/NuGet.Config"
+          "/Users/nauticomm/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"

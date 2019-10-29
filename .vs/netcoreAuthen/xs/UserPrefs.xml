@@ -1,21 +1,13 @@
 ﻿<Properties StartupConfiguration="{FF8F14F1-725E-41A9-8CE9-5ADA041A38DC}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Services/JwtService.cs">
-    <Files>
-      <File FileName="Services/ProtectorService.cs" Line="12" Column="66" />
-      <File FileName="Startup.cs" Line="107" Column="1" />
-      <File FileName="Controllers/ProtectorController.cs" Line="16" Column="48" />
-      <File FileName="Services/JwtService.cs" Line="40" Column="41" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="netcoreAuthen" expanded="True">
             <Node name="netcoreAuthen" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Services" expanded="True">
-                <Node name="JwtService.cs" selected="True" />
-              </Node>
+              <Node name="Datas" expanded="True" />
               <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
